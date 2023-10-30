@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<export>
+  <record>0<tourist_id>1</tourist_id><firstname>Sergei</firstname><lastname>Zubenko</lastname><patronymic>Mikhailovich</patronymic></record>
+  <record>1<tourist_id>2</tourist_id><firstname>Ivan</firstname><lastname>Ivanov</lastname><patronymic>Ivanovich</patronymic></record>
+  <record>2<tourist_id>3</tourist_id><firstname>Ivan</firstname><lastname>Abb</lastname><patronymic>Abbch</patronymic></record>
+  <record>3<tourist_id>4</tourist_id><firstname>Dmitr</firstname><lastname>Ditr</lastname><patronymic>Dmitrovich</patronymic></record>
+  <record>4<tourist_id>5</tourist_id><firstname>Victor</firstname><lastname>Ivanov</lastname><patronymic>Vovich</patronymic></record>
+  <record>5<tourist_id>6</tourist_id><firstname>Fhj</firstname><lastname>Gag</lastname><patronymic>hsch</patronymic></record>
+</export>

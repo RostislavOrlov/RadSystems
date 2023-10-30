@@ -1,0 +1,18 @@
+<export>
+  <record>0<дата_формирования></дата_формирования><2></2></record>
+</export>
+<export2>
+  <record>0<tourist_id>1</tourist_id><firstname>Sergei</firstname><lastname>Zubenko</lastname><patronymic>Mikhailovich</patronymic></record>
+  <record>1<tourist_id>2</tourist_id><firstname>Ivan</firstname><lastname>Ivanov</lastname><patronymic>Ivanovich</patronymic></record>
+  <record>2<tourist_id>3</tourist_id><firstname>Ivan</firstname><lastname>Abb</lastname><patronymic>Abbch</patronymic></record>
+  <record>3<tourist_id>4</tourist_id><firstname>Dmitr</firstname><lastname>Ditr</lastname><patronymic>Dmitrovich</patronymic></record>
+  <record>4<tourist_id>5</tourist_id><firstname>Victor</firstname><lastname>Ivanov</lastname><patronymic>Vovich</patronymic></record>
+  <record>5<tourist_id>6</tourist_id><firstname>Fhj</firstname><lastname>Gag</lastname><patronymic>hsch</patronymic></record>
+  <record>6<tourist_id>7</tourist_id><firstname>b</firstname><lastname>a</lastname><patronymic>c</patronymic></record>
+  <record>7<tourist_id>8</tourist_id><firstname>w</firstname><lastname>q</lastname><patronymic>e</patronymic></record>
+  <record>8<tourist_id>9</tourist_id><firstname>h</firstname><lastname>g</lastname><patronymic>j</patronymic></record>
+  <record>9<tourist_id>10</tourist_id><firstname>j</firstname><lastname>i</lastname><patronymic>k</patronymic></record>
+  <record>10<tourist_id>11</tourist_id><firstname>n</firstname><lastname>b</lastname><patronymic>m</patronymic></record>
+  <record>11<tourist_id>12</tourist_id><firstname>x</firstname><lastname>z</lastname><patronymic>c</patronymic></record>
+  <record>12<tourist_id>13</tourist_id><firstname>a</firstname><lastname>a</lastname><patronymic>a</patronymic></record>
+</export2>
